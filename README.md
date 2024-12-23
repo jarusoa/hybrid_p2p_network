@@ -29,7 +29,7 @@ Follow the on-screen prompts to register with the server, announce resources, qu
 ## Example Screenshots
 
 ### Server Running and Server Logs
-This screenshot shows the server running and logging client registrations, resource announcements, and liveness checks.
+This screenshot shows the server running and logs, resource announcements, and liveness checks.
 ![image](https://github.com/user-attachments/assets/b1b40643-73da-4b60-89f9-25a369ca9f2f)
 
 
